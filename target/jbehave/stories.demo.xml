@@ -1,7 +1,0 @@
-<story path="stories/demo.story" title="">
-<scenario keyword="Scenario:" title="Demo Serenity Parameterized Test">
-<step outcome="successful">Given Test case is prepared</step>
-<step outcome="successful">When Test case is being executed</step>
-<step outcome="successful">Then Test case execution is finished</step>
-</scenario>
-</story>
